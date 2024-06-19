@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Android Studio & Visual Studio Code
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me alifiraqshaakbar@gmail.com
+- 📫 How to reach me [instagram](alifiraqshaakbar@gmail.com)
 - 👨‍💻(≧▽≦)
 
 <!---
