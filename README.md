@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HOFii</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-[https://www.google.com/imgres?q=silver%20wolf%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F13%2Fc3%2Fd6%2F13c3d6d30072b6817d2a9af47aabdc8c.gif&imgrefurl=https%3A%2F%2Fca.pinterest.com%2Fpin%2Fsilverwolf-honkai-star-rail-gif-silverwolf-honkai-star-rail-discover-share-gifs--999728817264847491%2F&docid=YdRuV3Xja9sQuM&tbnid=_3XG556-cUHXbM&vet=12ahUKEwjS-4X79-qJAxWezDgGHSQeDL0QM3oECBYQAA..i&w=498&h=281&hcb=2&ved=2ahUKEwjS-4X79-qJAxWezDgGHSQeDL0QM3oECBYQAA](https://pin.it/7snbKpu9M)
+[https://www.google.com/imgres?q=silver%20wolf%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F13%2Fc3%2Fd6%2F13c3d6d30072b6817d2a9af47aabdc8c.gif&imgrefurl=https%3A%2F%2Fca.pinterest.com%2Fpin%2Fsilverwolf-honkai-star-rail-gif-silverwolf-honkai-star-rail-discover-share-gifs--999728817264847491%2F&docid=YdRuV3Xja9sQuM&tbnid=_3XG556-cUHXbM&vet=12ahUKEwjS-4X79-qJAxWezDgGHSQeDL0QM3oECBYQAA..i&w=498&h=281&hcb=2&ved=2ahUKEwjS-4X79-qJAxWezDgGHSQeDL0QM3oECBYQAA](https://pin.it/7snbKpu9M)](https://pin.it/7snbKpu9M)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hofii&label=Profile%20views&color=0e75b6&style=flat" alt="hofii" /> </p>
 
