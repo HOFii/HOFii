@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/736x/28/36/ef/2836efe516eb35bcd9b959855e1a1dd9.jpg)]
 <h1 align="center">Hi 👋, I'm HOFii</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
-<img align="right" alt="Blue" Width="400" src="https://i.pinimg.com/736x/28/36/ef/2836efe516eb35bcd9b959855e1a1dd9.jpg">
+<img align="right" alt="Blue" Width="400" src="https://i.pinimg.com/736x/dd/a9/9c/dda99c93795fdacf4cd72c44a70c207f.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hofii&label=Profile%20views&color=0e75b6&style=flat" alt="hofii" /> </p>
 
