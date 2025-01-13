@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alifiraqshaakbar@gmail.com**
 
-- ⚡ Fun fact **Im Straight**
+- ⚡ Fun fact **Im...Continue 2099**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
