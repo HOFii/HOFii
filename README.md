@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://hofii.github.io/Portfolio/](https://hofii.github.io/Portfol)
+- 👨‍💻 All of my projects are available at [portfolio](https://hofii.github.io/Portfol)
 
-- 📫 How to reach me **alifiraqshaakbar@gmail.com**
+- 📫 How to reach me [alifiraqshaakbar@gmail.com](alifiraqshaakbar@gmail.com)
 
 - ⚡ Fun fact **Im...Continue 2099**>
 
