@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hofii&label=Profile%20views&color=0e75b6&style=flat" alt="hofii" /> </p>
 
-- 🌱 I’m currently learning [Laravel](https://laravel.com/docs/11.x)
-- 🌱 And companions [Filament](https://filamentphp.com/docs)
+- 🌱 I’m currently learning [Laravel](https://laravel.com/docs/11.x) & [Filament](https://filamentphp.com/docs)
 
 - 👨‍💻 All of my projects are available at [portfolio](https://hofii.github.io/Portfol)
 
