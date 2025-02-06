@@ -4,7 +4,7 @@
 <img align="right" alt="Blue" Width="400" src="https://i.pinimg.com/736x/dd/a9/9c/dda99c93795fdacf4cd72c44a70c207f.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hofii&label=Profile%20views&color=0e75b6&style=flat" alt="hofii" /> </p>
-<br>
+
 - 🌱 I’m currently learning [Laravel](https://laravel.com/docs/11.x) & [Filament](https://filamentphp.com/docs)
 
 - 👨‍💻 All of my projects are available at [portfolio](https://hofii.github.io/Portfol)
