@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm HOFii</h1>
-<h3 align="center">a web programming newbie</h3>
+<h3 align="center">a newbie web programming</h3>
 <img align="right" alt="Blue" Width="400" src="https://i.pinimg.com/736x/dd/a9/9c/dda99c93795fdacf4cd72c44a70c207f.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hofii&label=Profile%20views&color=0e75b6&style=flat" alt="hofii" /> </p>
