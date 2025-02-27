@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](https://hofii.github.io/Portfol)
 
-- 📫 How to reach me [alifiraqshaakbar@gmail.com](alifiraqshaakbar@gmail.com)
+- 📫 How to reach me [mail](alifiraqshaakbar@gmail.com)
 
 - ⚡ Fun fact **--**
 
